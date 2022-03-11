@@ -337,6 +337,10 @@ body {
     margin: 0 4px;
    }
 
+   .channel-description, .channel-link, .channel-link:hover  {
+    color: #030303;
+   }
+
    
 
 
